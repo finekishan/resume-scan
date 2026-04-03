@@ -5,3 +5,4 @@ pydantic
 pdfplumber
 openai==0.28.1
 google-generativeai
+python-multipart
